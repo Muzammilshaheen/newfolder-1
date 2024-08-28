@@ -1,7 +1,7 @@
 import React from "react";
 import Image from 'next/image'; 
 
-function Home() {
+const page = () => {
   return (
     <figure className="bg-slate-100 rounded-xl p-8 dark:bg-slate-800">
       <Image
@@ -32,4 +32,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default page;
