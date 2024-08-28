@@ -21,9 +21,9 @@ const page = () => {
         Staff Engineer, Algolia
       </div>
     </figcaption>
-  </div>
+  
 </figure>
-
+</div>
 
 
 
